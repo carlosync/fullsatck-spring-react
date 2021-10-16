@@ -2,8 +2,9 @@ package com.foundationvip.aura.model;
 
 import lombok.*;
 
-@Getter @Setter @AllArgsConstructor
-@NoArgsConstructor @ToString @EqualsAndHashCode
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
 public class Student {
 
     private Long id;
