@@ -29,6 +29,13 @@ public class StudentController {
                         "2021050721",
                         "jamires@aura.edu",
                         Gender.FEMALE
+                ),
+                new Student(
+                        2L,
+                        "Gleidiane",
+                        "2021050896",
+                        "cleidiane@aura.edu",
+                        Gender.FEMALE
                 )
         );
         return students;
