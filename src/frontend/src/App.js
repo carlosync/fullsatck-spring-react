@@ -111,7 +111,7 @@ function App() {
                     {renderStudents()}
                 </div>
             </Content>
-            <Footer style={{ textAlign: 'center' }}>Aura ©2021 Created by Carlosync</Footer>
+            <Footer style={{ textAlign: 'center' }}>Aura ©2022 Created by Carlosync</Footer>
         </Layout>
     </Layout>
 }

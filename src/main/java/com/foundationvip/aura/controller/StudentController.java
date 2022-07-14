@@ -20,14 +20,14 @@ public class StudentController {
                         1L,
                         "Carlos",
                         "2021020204",
-                        "carlos@gmai.com",
+                        "carlos@aura.edu",
                         Gender.MALE
                 ),
                 new Student(
                         2L,
                         "Jamires",
                         "2021050721",
-                        "jamires@gmai.com",
+                        "jamires@aura.edu",
                         Gender.FEMALE
                 )
         );
